@@ -15,7 +15,7 @@ I'm a Computer Science student at the University of Auckland, with a focus on ne
 #### Tech I work with
 
 Networking: Cisco IOS, Packet Tracer, OSPF, VLANs, ACLs
-Programming: Python, Java, [whatever your uni teaches]
+Programming: Python, Java, C
 Tools: Git, Linux, VS Code
 
 #### Get in touch
