@@ -1,26 +1,11 @@
-### Hi, I'm Lucas 👋
+# LUCAS CHOI
+### About Me:
+I'm currently studying Computer Science at the University of Auckland with a focus on networking and infrastructure. I am hoping to build a career in network engineering by building a portfolio of networking projects covering enterprise design, automation and cloud infrastructure.
 
-I'm a Computer Science student at the University of Auckland, with a focus on networking and infrastructure. I'm building toward a career in network engineering, where I can combine systems thinking with hands-on technical work.
+### Current Focus:
+- Building a portfolio of networking projects
+- Learning network automation with Python and Netmiko
+- Exploring cloud networking with AWS and Terraform
 
-#### What I'm working on
-
-- 🔧 Building a portfolio of networking projects covering enterprise design, automation, and cloud infrastructure
-- 🐍 Learning network automation with Python and Netmiko
-- ☁️ Exploring cloud networking with AWS and Terraform
-
-#### Featured projects
-
-- *(More projects coming soon)*
-
-#### Tech I work with
-
-Networking: Cisco IOS, Packet Tracer, OSPF, VLANs, ACLs
-Programming: Python, Java, C
-Tools: Git, Linux, VS Code
-
-#### Get in touch
-
-- 📧 lucaschoi1126@gmail.com
-
----
-*Open to internships and graduate roles in networking, infrastructure, or cloud engineering.*
+### My Projects:
+(wip)
